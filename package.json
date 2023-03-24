@@ -8,8 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "astro": "^2.1.6",
+  "devDependencies": {
     "astro-component-tester": "^0.6.0"
+  },
+  "dependencies": {
+    "astro": "^2.1.6"
   }
 }
