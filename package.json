@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "astro": "^2.1.6",
-    "astro-component-tester": 0.6.0
+    "astro-component-tester": "^0.6.0"
   }
 }
